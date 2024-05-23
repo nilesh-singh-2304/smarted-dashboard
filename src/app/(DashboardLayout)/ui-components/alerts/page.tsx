@@ -45,7 +45,7 @@ const Alerts = () => {
           </BaseCard>
         </Grid>
         <Grid item xs={12} lg={12}>
-          <BaseCard title="Alert with Desc">
+          <BaseCard title="General Notifications">
             <Stack spacing={2}>
               <Alert severity="error">
                 <AlertTitle>Error</AlertTitle>
